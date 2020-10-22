@@ -1,0 +1,72 @@
+Question#: 15.Web API supports which of the following protocol?
+A.TCP
+B.HTTP
+C.Soap
+D.All of the above
+
+Question#: 21.Web API supports which of the following request/response data formats by default?
+A.JSON
+B.XML
+C.BSON
+D.All of the above
+
+Question#: 32.Which of the following .NET framework supports Web API?
+A..NET 2.0
+B..NET 3.0
+C..NET 3.5
+D..NET 4.0
+
+Question#: 46.Which of the following statement is TRUE?
+A.Web API can be configured using web.config.
+B.Web API can only be configured by code.
+C.Web API can be configured using app.config.
+D.None of the above
+
+Question#: 58.Web API uses which of the following open-source library for JSON serialization?
+A.Json.NET
+B.JsonFormatter.NET
+C.GetJson.NET
+D.None of the above
+
+Question#: 63.Web API controller must be derived from __________.
+A.Controller class
+B.ApiController class
+C.WebApiController class
+D.WebController class
+
+Question#: 79.Which of the following types of routing is supported in Web API 2?
+A.Attribute Routing
+B.Convention-based Routing
+C.All of the above
+D.None of the above
+
+Question#: 80.Which of the following types are valid response types of Web API 2 action method?
+A.HttpResponseMessage
+B.IHttpActionResult
+C.Custom types
+D.All of the above
+
+Question#: 94.Which of the following action method names are valid to handle HTTP GET request?
+A.Get
+B.GetAllStudents
+C.GetStudent
+D.all of the above
+
+Question#: 10.Web API sends which of the following status code on successful execution?
+A.200
+B.201
+C.500
+D.404
+
+Answers
+15.Correct Answer: HTTP
+21.Correct Answer: All of the above
+32.Correct Answer: .NET 4.0
+46.Correct Answer: Web API can only be configured by code.
+58.Correct Answer: Json.NET
+63.Correct Answer: ApiController class
+79.Correct Answer: All of the above
+80.Correct Answer: All of the above
+94.Correct Answer: all of the above
+10.Correct Answer: 200
+

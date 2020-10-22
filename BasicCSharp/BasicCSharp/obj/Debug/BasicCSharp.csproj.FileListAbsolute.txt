@@ -1,0 +1,7 @@
+C:\Users\hoang\OneDrive\Máy tính\Hybrid-Technologies\Basic_C_Sharp\BasicCSharp\BasicCSharp\bin\Debug\BasicCSharp.exe.config
+C:\Users\hoang\OneDrive\Máy tính\Hybrid-Technologies\Basic_C_Sharp\BasicCSharp\BasicCSharp\bin\Debug\BasicCSharp.exe
+C:\Users\hoang\OneDrive\Máy tính\Hybrid-Technologies\Basic_C_Sharp\BasicCSharp\BasicCSharp\bin\Debug\BasicCSharp.pdb
+C:\Users\hoang\OneDrive\Máy tính\Hybrid-Technologies\Basic_C_Sharp\BasicCSharp\BasicCSharp\obj\Debug\BasicCSharp.csprojAssemblyReference.cache
+C:\Users\hoang\OneDrive\Máy tính\Hybrid-Technologies\Basic_C_Sharp\BasicCSharp\BasicCSharp\obj\Debug\BasicCSharp.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Máy tính\Hybrid-Technologies\Basic_C_Sharp\BasicCSharp\BasicCSharp\obj\Debug\BasicCSharp.exe
+C:\Users\hoang\OneDrive\Máy tính\Hybrid-Technologies\Basic_C_Sharp\BasicCSharp\BasicCSharp\obj\Debug\BasicCSharp.pdb
